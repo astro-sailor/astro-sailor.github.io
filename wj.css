@@ -1,0 +1,24 @@
+body{
+    width:800px;
+    margin-left:auto;
+ margin-right:auto;
+}
+h2{
+    color: rgb(255, 182, 122);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    color: rgb(98, 133, 95);
+}
+.otherp{
+    color: rgba(15, 105, 146, 0.418);
+}
+p{
+    color: rgb(248, 147, 147);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 720px;
+    margin-left:auto;
+ margin-right:auto;
+}
